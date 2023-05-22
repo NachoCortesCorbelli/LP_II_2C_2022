@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "I08_Dibujando_un_triángulo_rectángulo_ConsoleApp/1.0.0": {
+        "runtime": {
+          "I08_Dibujando_un_triángulo_rectángulo_ConsoleApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "I08_Dibujando_un_triángulo_rectángulo_ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

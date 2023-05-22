@@ -1,0 +1,15 @@
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I04_Un_número_perfecto_ConsoleApp\bin\Debug\net6.0\I04_Un_número_perfecto_ConsoleApp.exe
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I04_Un_número_perfecto_ConsoleApp\bin\Debug\net6.0\I04_Un_número_perfecto_ConsoleApp.deps.json
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I04_Un_número_perfecto_ConsoleApp\bin\Debug\net6.0\I04_Un_número_perfecto_ConsoleApp.runtimeconfig.json
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I04_Un_número_perfecto_ConsoleApp\bin\Debug\net6.0\I04_Un_número_perfecto_ConsoleApp.dll
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I04_Un_número_perfecto_ConsoleApp\bin\Debug\net6.0\I04_Un_número_perfecto_ConsoleApp.pdb
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I04_Un_número_perfecto_ConsoleApp\obj\Debug\net6.0\I04_Un_número_perfecto_ConsoleApp.csproj.AssemblyReference.cache
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I04_Un_número_perfecto_ConsoleApp\obj\Debug\net6.0\I04_Un_número_perfecto_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I04_Un_número_perfecto_ConsoleApp\obj\Debug\net6.0\I04_Un_número_perfecto_ConsoleApp.AssemblyInfoInputs.cache
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I04_Un_número_perfecto_ConsoleApp\obj\Debug\net6.0\I04_Un_número_perfecto_ConsoleApp.AssemblyInfo.cs
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I04_Un_número_perfecto_ConsoleApp\obj\Debug\net6.0\I04_Un_número_perfecto_ConsoleApp.csproj.CoreCompileInputs.cache
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I04_Un_número_perfecto_ConsoleApp\obj\Debug\net6.0\I04_Un_número_perfecto_ConsoleApp.dll
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I04_Un_número_perfecto_ConsoleApp\obj\Debug\net6.0\refint\I04_Un_número_perfecto_ConsoleApp.dll
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I04_Un_número_perfecto_ConsoleApp\obj\Debug\net6.0\I04_Un_número_perfecto_ConsoleApp.pdb
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I04_Un_número_perfecto_ConsoleApp\obj\Debug\net6.0\I04_Un_número_perfecto_ConsoleApp.genruntimeconfig.cache
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I04_Un_número_perfecto_ConsoleApp\obj\Debug\net6.0\ref\I04_Un_número_perfecto_ConsoleApp.dll

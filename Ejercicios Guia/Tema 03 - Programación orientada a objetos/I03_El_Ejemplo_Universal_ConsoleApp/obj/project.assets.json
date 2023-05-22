@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Biblioteca/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Biblioteca.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Biblioteca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Biblioteca/1.0.0": {
+      "type": "project",
+      "path": "../Biblioteca/Biblioteca.csproj",
+      "msbuildProject": "../Biblioteca/Biblioteca.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Biblioteca >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ignac\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Programacion\\Repos\\LP_II_2C_2022\\Ejercicios Guia\\Tema 03 - Programación orientada a objetos\\I03_El_Ejemplo_Universal_ConsoleApp\\I03_El_Ejemplo_Universal_ConsoleApp.csproj",
+      "projectName": "I03_El_Ejemplo_Universal_ConsoleApp",
+      "projectPath": "E:\\Programacion\\Repos\\LP_II_2C_2022\\Ejercicios Guia\\Tema 03 - Programación orientada a objetos\\I03_El_Ejemplo_Universal_ConsoleApp\\I03_El_Ejemplo_Universal_ConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\ignac\\.nuget\\packages\\",
+      "outputPath": "E:\\Programacion\\Repos\\LP_II_2C_2022\\Ejercicios Guia\\Tema 03 - Programación orientada a objetos\\I03_El_Ejemplo_Universal_ConsoleApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ignac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "E:\\Programacion\\Repos\\LP_II_2C_2022\\Ejercicios Guia\\Tema 03 - Programación orientada a objetos\\Biblioteca\\Biblioteca.csproj": {
+              "projectPath": "E:\\Programacion\\Repos\\LP_II_2C_2022\\Ejercicios Guia\\Tema 03 - Programación orientada a objetos\\Biblioteca\\Biblioteca.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

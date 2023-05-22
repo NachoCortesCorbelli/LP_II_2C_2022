@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "I06_Años_bisiestos_ConsoleApp/1.0.0": {
+        "runtime": {
+          "I06_Años_bisiestos_ConsoleApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "I06_Años_bisiestos_ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

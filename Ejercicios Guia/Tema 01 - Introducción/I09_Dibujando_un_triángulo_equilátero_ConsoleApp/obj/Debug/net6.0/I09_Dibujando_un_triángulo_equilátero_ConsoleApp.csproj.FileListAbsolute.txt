@@ -1,0 +1,15 @@
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I09_Dibujando_un_triángulo_equilátero_ConsoleApp\bin\Debug\net6.0\I09_Dibujando_un_triángulo_equilátero_ConsoleApp.exe
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I09_Dibujando_un_triángulo_equilátero_ConsoleApp\bin\Debug\net6.0\I09_Dibujando_un_triángulo_equilátero_ConsoleApp.deps.json
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I09_Dibujando_un_triángulo_equilátero_ConsoleApp\bin\Debug\net6.0\I09_Dibujando_un_triángulo_equilátero_ConsoleApp.runtimeconfig.json
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I09_Dibujando_un_triángulo_equilátero_ConsoleApp\bin\Debug\net6.0\I09_Dibujando_un_triángulo_equilátero_ConsoleApp.dll
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I09_Dibujando_un_triángulo_equilátero_ConsoleApp\bin\Debug\net6.0\I09_Dibujando_un_triángulo_equilátero_ConsoleApp.pdb
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I09_Dibujando_un_triángulo_equilátero_ConsoleApp\obj\Debug\net6.0\I09_Dibujando_un_triángulo_equilátero_ConsoleApp.csproj.AssemblyReference.cache
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I09_Dibujando_un_triángulo_equilátero_ConsoleApp\obj\Debug\net6.0\I09_Dibujando_un_triángulo_equilátero_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I09_Dibujando_un_triángulo_equilátero_ConsoleApp\obj\Debug\net6.0\I09_Dibujando_un_triángulo_equilátero_ConsoleApp.AssemblyInfoInputs.cache
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I09_Dibujando_un_triángulo_equilátero_ConsoleApp\obj\Debug\net6.0\I09_Dibujando_un_triángulo_equilátero_ConsoleApp.AssemblyInfo.cs
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I09_Dibujando_un_triángulo_equilátero_ConsoleApp\obj\Debug\net6.0\I09_Dibujando_un_triángulo_equilátero_ConsoleApp.csproj.CoreCompileInputs.cache
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I09_Dibujando_un_triángulo_equilátero_ConsoleApp\obj\Debug\net6.0\I09_Dibujando_un_triángulo_equilátero_ConsoleApp.dll
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I09_Dibujando_un_triángulo_equilátero_ConsoleApp\obj\Debug\net6.0\refint\I09_Dibujando_un_triángulo_equilátero_ConsoleApp.dll
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I09_Dibujando_un_triángulo_equilátero_ConsoleApp\obj\Debug\net6.0\I09_Dibujando_un_triángulo_equilátero_ConsoleApp.pdb
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I09_Dibujando_un_triángulo_equilátero_ConsoleApp\obj\Debug\net6.0\I09_Dibujando_un_triángulo_equilátero_ConsoleApp.genruntimeconfig.cache
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I09_Dibujando_un_triángulo_equilátero_ConsoleApp\obj\Debug\net6.0\ref\I09_Dibujando_un_triángulo_equilátero_ConsoleApp.dll

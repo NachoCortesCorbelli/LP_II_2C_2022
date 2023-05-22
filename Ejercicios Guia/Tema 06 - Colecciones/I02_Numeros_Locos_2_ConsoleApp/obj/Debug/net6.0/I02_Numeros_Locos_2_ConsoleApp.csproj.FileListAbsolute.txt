@@ -1,0 +1,15 @@
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 06 - Colecciones\I02_Numeros_Locos_2_ConsoleApp\bin\Debug\net6.0\I02_Numeros_Locos_2_ConsoleApp.exe
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 06 - Colecciones\I02_Numeros_Locos_2_ConsoleApp\bin\Debug\net6.0\I02_Numeros_Locos_2_ConsoleApp.deps.json
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 06 - Colecciones\I02_Numeros_Locos_2_ConsoleApp\bin\Debug\net6.0\I02_Numeros_Locos_2_ConsoleApp.runtimeconfig.json
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 06 - Colecciones\I02_Numeros_Locos_2_ConsoleApp\bin\Debug\net6.0\I02_Numeros_Locos_2_ConsoleApp.dll
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 06 - Colecciones\I02_Numeros_Locos_2_ConsoleApp\bin\Debug\net6.0\I02_Numeros_Locos_2_ConsoleApp.pdb
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 06 - Colecciones\I02_Numeros_Locos_2_ConsoleApp\obj\Debug\net6.0\I02_Numeros_Locos_2_ConsoleApp.csproj.AssemblyReference.cache
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 06 - Colecciones\I02_Numeros_Locos_2_ConsoleApp\obj\Debug\net6.0\I02_Numeros_Locos_2_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 06 - Colecciones\I02_Numeros_Locos_2_ConsoleApp\obj\Debug\net6.0\I02_Numeros_Locos_2_ConsoleApp.AssemblyInfoInputs.cache
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 06 - Colecciones\I02_Numeros_Locos_2_ConsoleApp\obj\Debug\net6.0\I02_Numeros_Locos_2_ConsoleApp.AssemblyInfo.cs
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 06 - Colecciones\I02_Numeros_Locos_2_ConsoleApp\obj\Debug\net6.0\I02_Numeros_Locos_2_ConsoleApp.csproj.CoreCompileInputs.cache
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 06 - Colecciones\I02_Numeros_Locos_2_ConsoleApp\obj\Debug\net6.0\I02_Numeros_Locos_2_ConsoleApp.dll
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 06 - Colecciones\I02_Numeros_Locos_2_ConsoleApp\obj\Debug\net6.0\refint\I02_Numeros_Locos_2_ConsoleApp.dll
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 06 - Colecciones\I02_Numeros_Locos_2_ConsoleApp\obj\Debug\net6.0\I02_Numeros_Locos_2_ConsoleApp.pdb
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 06 - Colecciones\I02_Numeros_Locos_2_ConsoleApp\obj\Debug\net6.0\I02_Numeros_Locos_2_ConsoleApp.genruntimeconfig.cache
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 06 - Colecciones\I02_Numeros_Locos_2_ConsoleApp\obj\Debug\net6.0\ref\I02_Numeros_Locos_2_ConsoleApp.dll

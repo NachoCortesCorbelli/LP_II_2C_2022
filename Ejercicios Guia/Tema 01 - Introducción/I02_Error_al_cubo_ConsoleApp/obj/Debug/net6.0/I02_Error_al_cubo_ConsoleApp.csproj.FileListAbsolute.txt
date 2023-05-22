@@ -1,0 +1,15 @@
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I02_Error_al_cubo_ConsoleApp\bin\Debug\net6.0\I02_Error_al_cubo_ConsoleApp.exe
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I02_Error_al_cubo_ConsoleApp\bin\Debug\net6.0\I02_Error_al_cubo_ConsoleApp.deps.json
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I02_Error_al_cubo_ConsoleApp\bin\Debug\net6.0\I02_Error_al_cubo_ConsoleApp.runtimeconfig.json
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I02_Error_al_cubo_ConsoleApp\bin\Debug\net6.0\I02_Error_al_cubo_ConsoleApp.dll
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I02_Error_al_cubo_ConsoleApp\bin\Debug\net6.0\I02_Error_al_cubo_ConsoleApp.pdb
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I02_Error_al_cubo_ConsoleApp\obj\Debug\net6.0\I02_Error_al_cubo_ConsoleApp.csproj.AssemblyReference.cache
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I02_Error_al_cubo_ConsoleApp\obj\Debug\net6.0\I02_Error_al_cubo_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I02_Error_al_cubo_ConsoleApp\obj\Debug\net6.0\I02_Error_al_cubo_ConsoleApp.AssemblyInfoInputs.cache
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I02_Error_al_cubo_ConsoleApp\obj\Debug\net6.0\I02_Error_al_cubo_ConsoleApp.AssemblyInfo.cs
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I02_Error_al_cubo_ConsoleApp\obj\Debug\net6.0\I02_Error_al_cubo_ConsoleApp.csproj.CoreCompileInputs.cache
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I02_Error_al_cubo_ConsoleApp\obj\Debug\net6.0\I02_Error_al_cubo_ConsoleApp.dll
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I02_Error_al_cubo_ConsoleApp\obj\Debug\net6.0\refint\I02_Error_al_cubo_ConsoleApp.dll
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I02_Error_al_cubo_ConsoleApp\obj\Debug\net6.0\I02_Error_al_cubo_ConsoleApp.pdb
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I02_Error_al_cubo_ConsoleApp\obj\Debug\net6.0\I02_Error_al_cubo_ConsoleApp.genruntimeconfig.cache
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I02_Error_al_cubo_ConsoleApp\obj\Debug\net6.0\ref\I02_Error_al_cubo_ConsoleApp.dll

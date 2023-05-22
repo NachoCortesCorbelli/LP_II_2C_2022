@@ -1,0 +1,19 @@
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 02 - Clases y métodos estáticos\I08_El tiempo pasa_ConsoleApp1\bin\Debug\net5.0\I08_El tiempo pasa_ConsoleApp.exe
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 02 - Clases y métodos estáticos\I08_El tiempo pasa_ConsoleApp1\bin\Debug\net5.0\I08_El tiempo pasa_ConsoleApp.deps.json
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 02 - Clases y métodos estáticos\I08_El tiempo pasa_ConsoleApp1\bin\Debug\net5.0\I08_El tiempo pasa_ConsoleApp.runtimeconfig.json
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 02 - Clases y métodos estáticos\I08_El tiempo pasa_ConsoleApp1\bin\Debug\net5.0\I08_El tiempo pasa_ConsoleApp.runtimeconfig.dev.json
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 02 - Clases y métodos estáticos\I08_El tiempo pasa_ConsoleApp1\bin\Debug\net5.0\I08_El tiempo pasa_ConsoleApp.dll
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 02 - Clases y métodos estáticos\I08_El tiempo pasa_ConsoleApp1\bin\Debug\net5.0\I08_El tiempo pasa_ConsoleApp.pdb
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 02 - Clases y métodos estáticos\I08_El tiempo pasa_ConsoleApp1\bin\Debug\net5.0\Biblioteca.dll
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 02 - Clases y métodos estáticos\I08_El tiempo pasa_ConsoleApp1\bin\Debug\net5.0\Biblioteca.pdb
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 02 - Clases y métodos estáticos\I08_El tiempo pasa_ConsoleApp1\obj\Debug\net5.0\I08_El tiempo pasa_ConsoleApp.csproj.AssemblyReference.cache
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 02 - Clases y métodos estáticos\I08_El tiempo pasa_ConsoleApp1\obj\Debug\net5.0\I08_El tiempo pasa_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 02 - Clases y métodos estáticos\I08_El tiempo pasa_ConsoleApp1\obj\Debug\net5.0\I08_El tiempo pasa_ConsoleApp.AssemblyInfoInputs.cache
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 02 - Clases y métodos estáticos\I08_El tiempo pasa_ConsoleApp1\obj\Debug\net5.0\I08_El tiempo pasa_ConsoleApp.AssemblyInfo.cs
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 02 - Clases y métodos estáticos\I08_El tiempo pasa_ConsoleApp1\obj\Debug\net5.0\I08_El tiempo pasa_ConsoleApp.csproj.CoreCompileInputs.cache
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 02 - Clases y métodos estáticos\I08_El tiempo pasa_ConsoleApp1\obj\Debug\net5.0\I08_El tiempo pasa_ConsoleApp.csproj.CopyComplete
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 02 - Clases y métodos estáticos\I08_El tiempo pasa_ConsoleApp1\obj\Debug\net5.0\I08_El tiempo pasa_ConsoleApp.dll
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 02 - Clases y métodos estáticos\I08_El tiempo pasa_ConsoleApp1\obj\Debug\net5.0\refint\I08_El tiempo pasa_ConsoleApp.dll
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 02 - Clases y métodos estáticos\I08_El tiempo pasa_ConsoleApp1\obj\Debug\net5.0\I08_El tiempo pasa_ConsoleApp.pdb
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 02 - Clases y métodos estáticos\I08_El tiempo pasa_ConsoleApp1\obj\Debug\net5.0\I08_El tiempo pasa_ConsoleApp.genruntimeconfig.cache
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 02 - Clases y métodos estáticos\I08_El tiempo pasa_ConsoleApp1\obj\Debug\net5.0\ref\I08_El tiempo pasa_ConsoleApp.dll

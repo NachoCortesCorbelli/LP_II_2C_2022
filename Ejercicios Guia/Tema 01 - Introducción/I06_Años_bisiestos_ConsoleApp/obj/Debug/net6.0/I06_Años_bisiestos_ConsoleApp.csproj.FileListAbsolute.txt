@@ -1,0 +1,15 @@
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I06_Años_bisiestos_ConsoleApp\bin\Debug\net6.0\I06_Años_bisiestos_ConsoleApp.exe
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I06_Años_bisiestos_ConsoleApp\bin\Debug\net6.0\I06_Años_bisiestos_ConsoleApp.deps.json
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I06_Años_bisiestos_ConsoleApp\bin\Debug\net6.0\I06_Años_bisiestos_ConsoleApp.runtimeconfig.json
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I06_Años_bisiestos_ConsoleApp\bin\Debug\net6.0\I06_Años_bisiestos_ConsoleApp.dll
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I06_Años_bisiestos_ConsoleApp\bin\Debug\net6.0\I06_Años_bisiestos_ConsoleApp.pdb
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I06_Años_bisiestos_ConsoleApp\obj\Debug\net6.0\I06_Años_bisiestos_ConsoleApp.csproj.AssemblyReference.cache
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I06_Años_bisiestos_ConsoleApp\obj\Debug\net6.0\I06_Años_bisiestos_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I06_Años_bisiestos_ConsoleApp\obj\Debug\net6.0\I06_Años_bisiestos_ConsoleApp.AssemblyInfoInputs.cache
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I06_Años_bisiestos_ConsoleApp\obj\Debug\net6.0\I06_Años_bisiestos_ConsoleApp.AssemblyInfo.cs
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I06_Años_bisiestos_ConsoleApp\obj\Debug\net6.0\I06_Años_bisiestos_ConsoleApp.csproj.CoreCompileInputs.cache
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I06_Años_bisiestos_ConsoleApp\obj\Debug\net6.0\I06_Años_bisiestos_ConsoleApp.dll
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I06_Años_bisiestos_ConsoleApp\obj\Debug\net6.0\refint\I06_Años_bisiestos_ConsoleApp.dll
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I06_Años_bisiestos_ConsoleApp\obj\Debug\net6.0\I06_Años_bisiestos_ConsoleApp.pdb
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I06_Años_bisiestos_ConsoleApp\obj\Debug\net6.0\I06_Años_bisiestos_ConsoleApp.genruntimeconfig.cache
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I06_Años_bisiestos_ConsoleApp\obj\Debug\net6.0\ref\I06_Años_bisiestos_ConsoleApp.dll

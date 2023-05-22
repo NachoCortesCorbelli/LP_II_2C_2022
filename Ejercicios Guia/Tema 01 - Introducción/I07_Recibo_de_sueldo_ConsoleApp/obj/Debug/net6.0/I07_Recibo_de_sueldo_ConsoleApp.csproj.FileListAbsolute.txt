@@ -1,0 +1,15 @@
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I07_Recibo_de_sueldo_ConsoleApp\bin\Debug\net6.0\I07_Recibo_de_sueldo_ConsoleApp.exe
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I07_Recibo_de_sueldo_ConsoleApp\bin\Debug\net6.0\I07_Recibo_de_sueldo_ConsoleApp.deps.json
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I07_Recibo_de_sueldo_ConsoleApp\bin\Debug\net6.0\I07_Recibo_de_sueldo_ConsoleApp.runtimeconfig.json
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I07_Recibo_de_sueldo_ConsoleApp\bin\Debug\net6.0\I07_Recibo_de_sueldo_ConsoleApp.dll
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I07_Recibo_de_sueldo_ConsoleApp\bin\Debug\net6.0\I07_Recibo_de_sueldo_ConsoleApp.pdb
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I07_Recibo_de_sueldo_ConsoleApp\obj\Debug\net6.0\I07_Recibo_de_sueldo_ConsoleApp.csproj.AssemblyReference.cache
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I07_Recibo_de_sueldo_ConsoleApp\obj\Debug\net6.0\I07_Recibo_de_sueldo_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I07_Recibo_de_sueldo_ConsoleApp\obj\Debug\net6.0\I07_Recibo_de_sueldo_ConsoleApp.AssemblyInfoInputs.cache
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I07_Recibo_de_sueldo_ConsoleApp\obj\Debug\net6.0\I07_Recibo_de_sueldo_ConsoleApp.AssemblyInfo.cs
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I07_Recibo_de_sueldo_ConsoleApp\obj\Debug\net6.0\I07_Recibo_de_sueldo_ConsoleApp.csproj.CoreCompileInputs.cache
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I07_Recibo_de_sueldo_ConsoleApp\obj\Debug\net6.0\I07_Recibo_de_sueldo_ConsoleApp.dll
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I07_Recibo_de_sueldo_ConsoleApp\obj\Debug\net6.0\refint\I07_Recibo_de_sueldo_ConsoleApp.dll
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I07_Recibo_de_sueldo_ConsoleApp\obj\Debug\net6.0\I07_Recibo_de_sueldo_ConsoleApp.pdb
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I07_Recibo_de_sueldo_ConsoleApp\obj\Debug\net6.0\I07_Recibo_de_sueldo_ConsoleApp.genruntimeconfig.cache
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 01 - Introducción\I07_Recibo_de_sueldo_ConsoleApp\obj\Debug\net6.0\ref\I07_Recibo_de_sueldo_ConsoleApp.dll

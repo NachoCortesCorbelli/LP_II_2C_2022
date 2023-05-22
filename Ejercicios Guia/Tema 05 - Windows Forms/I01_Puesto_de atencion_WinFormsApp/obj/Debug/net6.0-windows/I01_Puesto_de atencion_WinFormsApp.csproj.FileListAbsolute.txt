@@ -1,0 +1,18 @@
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 05 - Windows Forms\I01_Puesto_de atencion_WinFormsApp\bin\Debug\net6.0-windows\I01_Puesto_de atencion_WinFormsApp.exe
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 05 - Windows Forms\I01_Puesto_de atencion_WinFormsApp\bin\Debug\net6.0-windows\I01_Puesto_de atencion_WinFormsApp.deps.json
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 05 - Windows Forms\I01_Puesto_de atencion_WinFormsApp\bin\Debug\net6.0-windows\I01_Puesto_de atencion_WinFormsApp.runtimeconfig.json
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 05 - Windows Forms\I01_Puesto_de atencion_WinFormsApp\bin\Debug\net6.0-windows\I01_Puesto_de atencion_WinFormsApp.dll
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 05 - Windows Forms\I01_Puesto_de atencion_WinFormsApp\bin\Debug\net6.0-windows\I01_Puesto_de atencion_WinFormsApp.pdb
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 05 - Windows Forms\I01_Puesto_de atencion_WinFormsApp\obj\Debug\net6.0-windows\I01_Puesto_de atencion_WinFormsApp.csproj.AssemblyReference.cache
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 05 - Windows Forms\I01_Puesto_de atencion_WinFormsApp\obj\Debug\net6.0-windows\I01_Puesto_de atencion_WinFormsApp.csproj.GenerateResource.cache
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 05 - Windows Forms\I01_Puesto_de atencion_WinFormsApp\obj\Debug\net6.0-windows\I01_Puesto_de atencion_WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 05 - Windows Forms\I01_Puesto_de atencion_WinFormsApp\obj\Debug\net6.0-windows\I01_Puesto_de atencion_WinFormsApp.AssemblyInfoInputs.cache
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 05 - Windows Forms\I01_Puesto_de atencion_WinFormsApp\obj\Debug\net6.0-windows\I01_Puesto_de atencion_WinFormsApp.AssemblyInfo.cs
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 05 - Windows Forms\I01_Puesto_de atencion_WinFormsApp\obj\Debug\net6.0-windows\I01_Puesto_de atencion_WinFormsApp.csproj.CoreCompileInputs.cache
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 05 - Windows Forms\I01_Puesto_de atencion_WinFormsApp\obj\Debug\net6.0-windows\I01_Puesto_de atencion_WinFormsApp.dll
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 05 - Windows Forms\I01_Puesto_de atencion_WinFormsApp\obj\Debug\net6.0-windows\refint\I01_Puesto_de atencion_WinFormsApp.dll
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 05 - Windows Forms\I01_Puesto_de atencion_WinFormsApp\obj\Debug\net6.0-windows\I01_Puesto_de atencion_WinFormsApp.pdb
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 05 - Windows Forms\I01_Puesto_de atencion_WinFormsApp\obj\Debug\net6.0-windows\I01_Puesto_de atencion_WinFormsApp.genruntimeconfig.cache
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 05 - Windows Forms\I01_Puesto_de atencion_WinFormsApp\obj\Debug\net6.0-windows\ref\I01_Puesto_de atencion_WinFormsApp.dll
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 05 - Windows Forms\I01_Puesto_de atencion_WinFormsApp\obj\Debug\net6.0-windows\I01_Puesto_de_atencion_WinFormsApp.Frm_login.resources
+E:\Programacion\Repos\LP_II_2C_2022\Ejercicios Guia\Tema 05 - Windows Forms\I01_Puesto_de atencion_WinFormsApp\obj\Debug\net6.0-windows\I01_Puesto_de_atencion_WinFormsApp.Frm_msge.resources
